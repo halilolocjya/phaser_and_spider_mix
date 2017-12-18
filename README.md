@@ -2,6 +2,12 @@
 phaser_and_spider_mix
 
 ## myphaser
+
+### 所用技术：
+* nodeJS+express
+* phaserJs
+* HiloJS
+
 |---phaser_and_spider_mix/myphaser/public/javascripts/game/
 
 目录下为：
@@ -26,6 +32,10 @@ http://localhost:3000/html/game/snake.html
 来查看结果。
 
 ## p_smart_spider
+### 所用技术：
+
+* nodeJS+cheerio
+* puppeteer
 
 |---phaser_and_spider_mix/p_smart_spider/
 
